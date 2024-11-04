@@ -1,1 +1,1 @@
-vaultwarden/server:latest
+nriver/trilium-cn:latest

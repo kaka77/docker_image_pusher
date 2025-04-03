@@ -1,1 +1,1 @@
-nriver/trilium-cn:latest
+dreamacro/clash:latest

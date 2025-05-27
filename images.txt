@@ -1,1 +1,1 @@
-dreamacro/clash:latest
+minio/minio:latest

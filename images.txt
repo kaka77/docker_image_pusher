@@ -1,1 +1,1 @@
-minio/minio:latest
+dxflrs/garage:090dbb412aff0afcbd42183ec12fa62c15bde58b

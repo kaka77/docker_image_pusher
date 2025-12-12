@@ -1,1 +1,1 @@
-dxflrs/garage:v2.1.0
+sjzar/chatlog:v0.0.31
